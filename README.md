@@ -29,13 +29,13 @@
 
 5.   Key Features / Dashboard Highlights
    
-   🔹 1. Overall Performance Insights
+    🔹 1. Overall Performance Insights
           Total Bookings: 103,024
           Total Booking Value: 35M
           Booking Status Breakdown: Success vs Driver Cancel vs Customer Cancel vs Driver Not Found
           Ride Volume Trend over the entire month
 
-   🔹 2. Vehicle Type Insights
+    🔹 2. Vehicle Type Insights
           Comparison of all vehicle categories: Prime Sedan, Prime SUV, Prime Plus, Mini, Auto, Bike, E-Bike
           Metrics displayed:
           Total Booking Value
@@ -43,13 +43,13 @@
           Avg. Distance Traveled
           Total Distance Traveled
 
-   🔹 3. Revenue Analysis
+    🔹 3. Revenue Analysis
           Revenue split by payment method:
           Cash > UPI > Credit Card > Debit Card
           Daily revenue trend by distance
           Top 5 customers based on total booking value
 
-   🔹 4. Cancellation Insights
+    🔹 4. Cancellation Insights
           Separate visual analysis for:
           Cancelled by Customer
           Cancelled by Driver
@@ -60,7 +60,7 @@
           Wrong address
           Customer/vehicle issues, personal reasons, etc.
 
-   🔹 5. Customer & Driver Ratings
+    🔹 5. Customer & Driver Ratings
           Ratings comparison across all vehicle types
           Most ratings average around 4.0, indicating strong customer satisfaction
 
