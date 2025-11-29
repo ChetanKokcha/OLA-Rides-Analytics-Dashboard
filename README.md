@@ -87,5 +87,5 @@
     🔹 Analyzing large datasets and extracting insights
     
 9.  Screenshots
-    ![Dashboard preview].(https://github.com/ChetanKokcha/OLA-Rides-Analytics-Dashboard/blob/main/OLA%20Rides%20Analysis%20(Page%201).png)
+    ![Dashboard preview](https://github.com/ChetanKokcha/OLA-Rides-Analytics-Dashboard/blob/main/OLA%20Rides%20Analysis%20(Page%201).png)
   
