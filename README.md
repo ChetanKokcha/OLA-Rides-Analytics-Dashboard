@@ -25,7 +25,7 @@
 4.   Data Source
    
      This dataset was taken from a YouTube channel that provides sample data for practice dashboards.
-     (You may replace it with your preferred dataset link or credit the channel.
+     
 
 5.   Key Features / Dashboard Highlights
    
